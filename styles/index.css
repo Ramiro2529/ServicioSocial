@@ -11,8 +11,10 @@ body {
     font-size: small;
 }
 
+
 /*-----PLECA DEL POLITECNICO-----*/
-.pleca{
+
+.pleca {
     width: 830px;
     border: 1px solid black;
     margin: auto;
@@ -22,19 +24,21 @@ body {
     align-content: center;
 }
 
-.pleca-principal{
+.pleca-principal {
     width: 800px;
     height: 120px;
     /* height: 100px; */
     /* align-self: center; */
 }
 
+
 /*-----TITULO-----*/
 
-.titulo{
+.titulo {
     color: #6C1D38;
     margin-top: 20px;
 }
+
 
 /*-----MENU SIDEBAR-----*/
 
@@ -94,7 +98,7 @@ body {
     outline: none;
 }
 
-.sidebar-navigation li a:hover{
+.sidebar-navigation li a:hover {
     color: white;
     transition: all 0.3s ease;
 }
@@ -132,10 +136,22 @@ body {
     padding-left: 220px;
 }
 
+
 /*--FOOTER--*/
 
 .footer {
     background-color: #6C1D38;
     color: #fff;
+    text-align: center;
+}
+
+
+/*--CONTENIDO--*/
+
+.contenido {
+    padding-left: 200px;
+}
+
+.centrar {
     text-align: center;
 }
