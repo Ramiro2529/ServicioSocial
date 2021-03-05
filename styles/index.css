@@ -149,7 +149,8 @@ body {
 /*--CONTENIDO--*/
 
 .contenido {
-    padding-left: 200px;
+    padding-left: 110px;
+    text-align: left;
 }
 
 .centrar {
